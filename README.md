@@ -6,3 +6,6 @@ Codes:
 1. NCO codes to separate 2D, 3D, and flexible output files by month and then merge into one nc file.
 2. Matlab (or Python) code to plot surface forcing, T/S, and velocity *HORIZONTAL* fields.
 3. Matlab codes to plot *vertical* fields.
+
+# update on Apr. 16th
+add a file making linear regression with SST variations 
